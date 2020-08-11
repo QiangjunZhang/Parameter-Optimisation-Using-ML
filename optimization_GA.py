@@ -118,8 +118,7 @@ def evaluate(individual):
 
 
 # GA optimisation
-def optimizer():
-
+def optimiser():
     creator.create("FitnessMax", base.Fitness, weights=(1.0,))
     creator.create("Individual", list, fitness=creator.FitnessMax)
     toolbox = base.Toolbox()
@@ -144,4 +143,4 @@ def optimizer():
 
 
 if __name__ == '__main__':
-    optimizer()
+    optimiser()
