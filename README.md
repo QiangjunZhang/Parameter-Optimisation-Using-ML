@@ -16,4 +16,4 @@ In this project, the simulation program is Gpyro, and selected optimiser include
 ###Example
 Optimise thermal kinetics to fit TGA testing data
 
-<img src="images/GA.png" width="800" height="500">
+<img src="images/GA.png" width="800" height="300">
