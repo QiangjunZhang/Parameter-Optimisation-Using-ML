@@ -13,7 +13,7 @@ This repository introduces a hybrid method to optimise model parameters to fit t
 
 In this project, the simulation program is Gpyro, and selected optimiser includes GA supported by DEAP and Gradient Descent Algorithms supported by Scipy.
 
-###Example
+### Example
 Optimise thermal kinetics to fit TGA testing data
 
-<img src="images/GA.png" width="800" height="300">
+   <img src="images/GA.png" width="800" height="300">
