@@ -1,6 +1,6 @@
 from deap import creator, base, tools, algorithms
 import random
-from base_optimiser import AbstractOptimiser
+from Optimiser.base_optimiser import AbstractOptimiser
 
 
 class OptimiserGA(AbstractOptimiser):

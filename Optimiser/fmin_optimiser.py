@@ -1,5 +1,5 @@
 import scipy.optimize as opt
-from base_optimiser import AbstractOptimiser
+from Optimiser.base_optimiser import AbstractOptimiser
 
 
 class FminOptimiser(AbstractOptimiser):
